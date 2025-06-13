@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h1, h2 {
+    font-family: Impact, serif;
+}
+
+.established {
+    font-style: italic;
+}
+
+hr {
+    height: 2px;
+    margin: 20px 0;
+}
+
+.menu {
+    width: 80%;
+    background-color: #fff0f5;
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 500px;
+}
+
+.product-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.item p {
+    display: inline-block;
+    margin: 5px 0;
+    font-size: 18px;
+}
+
+.flavor, .topping {
+    text-align: left;
+    width: 75%;
+}
+
+.price {
+    text-align: right;
+    width: 25%;
+}
+
+footer {
+    font-size: 14px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #d45d80;
+}
+
+a:hover {
+    color: #ff85a2;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #ff4785;
+}
